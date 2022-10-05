@@ -5,4 +5,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: uzanlatif@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?uzanlatif&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzanlatif&theme=radical)

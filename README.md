@@ -7,4 +7,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzanlatif&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzanlatif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzanlatif&layout=compact)](https://github.com/uzanlatif/github-readme-stats)

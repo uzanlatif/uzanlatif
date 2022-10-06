@@ -7,7 +7,7 @@
   - 💎 Pegadaian Gamification
   - 🗿 Maiworks WAYHT
   
-- 🌱 I’m currently learning flutter/dart and cloud computing
+- 🌱 I’m currently learning backend with node.js
 - 💬 Ask me about anything
 - 📫 How to reach me: uzanlatif@gmail.com
 

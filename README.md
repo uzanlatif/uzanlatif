@@ -5,7 +5,7 @@
 - Current Project
   - 🚀 Mauju Starship 
   - 💎 Pegadaian Gamification
-  - 🗿 Maiworks WAYHT
+  - 🗿 Maidworks WAYHT
   
 - 🌱 I’m currently learning backend with node.js
 - 💬 Ask me about anything

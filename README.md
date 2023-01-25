@@ -3,9 +3,7 @@
 - 🔭 I’m currently working on unity 3d
 
 - Current Project
-  - 🚀 Mauju Starship 
   - 💎 Pegadaian Gamification
-  - 🗿 Maidworks WAYHT
   
 - 🌱 I’m currently learning backend with node.js
 - 💬 Ask me about anything

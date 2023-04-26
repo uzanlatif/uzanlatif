@@ -3,9 +3,8 @@
 - 🔭 I’m currently working on unity 3d
 
 - Current Project
-  - 💎 Pegadaian Gamification
-  
-- 🌱 I’m currently learning backend with node.js
+  - 💎 Metaverse
+ 
 - 💬 Ask me about anything
 - 📫 How to reach me: uzanlatif@gmail.com
 

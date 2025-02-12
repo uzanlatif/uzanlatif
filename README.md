@@ -2,7 +2,9 @@
 
 Bachelor Of Computer Science UPNVY
 
-Unity 2D 3D VR AR
+Game 2D,3D Developer
+
+VR AR Developer
 
 Fullstack Web Developer
 

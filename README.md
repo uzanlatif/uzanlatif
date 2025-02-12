@@ -1,5 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 # Hello World!, I'm Uchiha Fauzan, an Indonesian Developer 👋🏼:
 
 Bachelor Of Computer Science UPNVY

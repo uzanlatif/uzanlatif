@@ -1,20 +1,6 @@
-### Hi there, my name fauzan 👋
-
-- 🔭 I’m currently working on unity 3d
-
-- Current Project
-  - 💎 Metaverse
- 
-- 💬 Ask me about anything
-- 📫 How to reach me: uzanlatif@gmail.com
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzanlatif&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzanlatif&layout=compact)](https://github.com/uzanlatif/github-readme-stats)
-
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
+# Hello World!, I'm Uchiha Fauzan, an Indonesian Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 
 

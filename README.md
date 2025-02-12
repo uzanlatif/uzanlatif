@@ -1,6 +1,6 @@
 # Hello World!, I'm Uchiha Fauzan, an Indonesian Developer 👋🏼:
 
-#Bachelor Of Computer Science UPNVY
+#Bachelor Of Computer Science UPNVY:
 #Unity 2D 3D VR AR
 #Fullstack Web Developer
 #Mobile Flutter Developer
